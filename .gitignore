@@ -1,0 +1,10 @@
+.idea
+__pycache__
+build
+dist
+venv
+
+main.py
+
+*.json
+*.spec
