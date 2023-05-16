@@ -1,10 +1,13 @@
-.idea
-__pycache__
+# pyinstaller files
 build
 dist
+*.spec
+
+# virtual enviroment
 venv
 
+# unused file
 main.py
 
+# user files
 *.json
-*.spec
