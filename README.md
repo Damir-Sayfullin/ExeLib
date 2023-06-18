@@ -2,7 +2,9 @@
 ## О проекте
 <p align="center">
     <a href=https://www.python.org/downloads/release/python-3917><img src="https://img.shields.io/badge/Python-3.9-green?style=for-the-badge" alt="Python Version"></a>
-    <a href=https://github.com/Damir-Sayfullin/ExeLib/releases/tag/v1.0.0><img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge" alt="Version"></a>
+    <a href=https://github.com/Damir-Sayfullin/ExeLib/releases/tag/v1.0.0><img src="https://img.shields.io/badge/Version-1.0.0-red?style=for-the-badge" alt="Version"></a><br>
+    <a href=https://github.com/Damir-Sayfullin/ExeLib/stargazers><img src="https://img.shields.io/github/stars/Damir-Sayfullin/ExeLib?style=for-the-badge&color=yellow" alt="Stars"></a>
+    <a href=https://github.com/Damir-Sayfullin/ExeLib/watchers><img src="https://img.shields.io/github/watchers/Damir-Sayfullin/ExeLib?style=for-the-badge" alt="Watchers"></a>
 </p>
  
 Проект ExeLib представляет собой графическое приложение, созданное с использованием библиотеки tkinter в Python. Это приложение позволяет пользователям организовать коллекцию ссылок на исполняемые файлы (exe-файлы) на их компьютере. Пользователи могут добавлять ссылки на файлы, указывая название и путь к файлу. Они также могут переименовывать ссылки и запускать выбранный exe-файл непосредственно из приложения. Коллекция ссылок сохраняется в файле JSON (paths.json) для последующего использования. Это полезный инструмент для упорядочивания и быстрого доступа к различным exe-файлам на компьютере пользователей.
