@@ -10,7 +10,7 @@
  
 The ExeLib project is a graphical application created using the tkinter library in Python. This application allows users to organize a collection of links to executable files (exe files) on their computer. Users can add links to files by specifying the filename and file path. They can also rename links and directly launch the selected exe file from the application. The collection of links is saved in a JSON file (paths.json) for future use. It is a useful tool for organizing and quickly accessing various exe files on user's computers.
 
-<a href="https://ibb.co/kD5zHqz"><img src="https://i.ibb.co/FYmcx8c/Exe-Lib-Image.png" alt="Exe-Lib-Image" width=600></a> 
+<a href="https://ibb.co/kmznmpY"><img src="https://i.ibb.co/6XGhX26/Exe-Lib-Image.png" alt="Exe-Lib-Image" width=600></a>
 
 ## Installation
 There are two ways to install and run the ExeLib application:
